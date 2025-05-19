@@ -1,3 +1,8 @@
+
+
+def error_function():
+    print('Wrong function1!')
+
 def test_function():
     print("this is the test function 1 yoh.")
 
