@@ -1,5 +1,5 @@
 def wrong_function():
-    print("asdadasdasdasdasdasdasdasdasd")
+    print("heheheheh")
 
 def test_function():
     print("this is the test function 1 yoh.")
