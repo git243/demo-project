@@ -1,4 +1,5 @@
-
+def error_function2():
+    print('Wrong function2!')
 
 def error_function():
     print('Wrong function1!')
