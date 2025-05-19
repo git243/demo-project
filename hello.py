@@ -1,3 +1,6 @@
+def wrong_function():
+    print("this is the error function, faster delete!!!")
+
 def test_function():
     print("this is the test function 1 yoh.")
 
