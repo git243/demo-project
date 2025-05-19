@@ -1,3 +1,6 @@
+def wrong_function2():
+    print("hehehehe22222h")
+
 def wrong_function():
     print("heheheheh")
 
