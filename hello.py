@@ -1,3 +1,6 @@
+def wrong_function():
+    print("asdadasdasdasdasdasdasdasdasd")
+
 def test_function():
     print("this is the test function 1 yoh.")
 
