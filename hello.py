@@ -1,9 +1,3 @@
-def walao_function():
-    print("walao another error function, faster delete!!!")
-
-def wrong_function():
-    print("this is the error function, faster delete!!!")
-
 def test_function():
     print("this is the test function 1 yoh.")
 
