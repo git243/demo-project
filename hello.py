@@ -2,7 +2,7 @@ def wrong_function2():
     print("hehehehe22222h")
 
 def wrong_function():
-    print("heheheheh")
+    print("asdadasdasdasdasdasdasdasdasd")
 
 def test_function():
     print("this is the test function 1 yoh.")
